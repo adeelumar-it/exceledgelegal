@@ -34,6 +34,7 @@
   <!--Begin TaskPane Mode integration. This section is used if there are no VersionOverrides or if the Office client version does not support add-in commands. -->
   <Hosts>
     <Host Name="Workbook" />
+    <Host Name="Document" />
   </Hosts>
   <DefaultSettings>
     <SourceLocation DefaultValue="https://localhost:44311/Home.html" />
